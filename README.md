@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 黑龙江省火灾格局分析项目
 
 ## 项目概述
@@ -135,3 +136,6 @@ pip install pandas numpy matplotlib seaborn geopandas
 本项目通过多维度的时空分析，全面揭示了黑龙江省2010-2019年火灾格局的特征和规律。研究结果对于火灾监测、预警和防控具有重要的参考价值。未来可以进一步结合气象数据、土地利用数据等，深入分析火灾发生的驱动因素，提高火灾预测的准确性。
 
 ---
+=======
+# Analysis-Fire-Patterns-in-Heilongjiang-Province
+>>>>>>> 50244d3f7bcdcd5596062b9630db1f18bfb8f9b5
